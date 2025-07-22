@@ -93107,7 +93107,7 @@ A.Et.prototype={
 a9(){return new A.YC()}}
 A.YC.prototype={
 K(a){var s=null,r=this.d?B.Bn:B.ZL
-return new A.BX(new A.nT(s),"Trigam Stock Management",A.t0(s,B.al,s,B.b3,B.c5,s),A.t0(B.Cg,B.z,s,s,B.jw,s),r,!1,s)}}
+return new A.BX(new A.nT(s),"Trigam",A.t0(s,B.al,s,B.b3,B.c5,s),A.t0(B.Cg,B.z,s,s,B.jw,s),r,!1,s)}}
 A.e2.prototype={}
 A.af4.prototype={
 gYN(){var s=this.b
