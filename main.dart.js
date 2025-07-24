@@ -95864,7 +95864,7 @@ A.FA.prototype={
 a8(){return new A.a_d()}}
 A.a_d.prototype={
 K(a){var s=null,r=this.d?B.CM:B.a1N
-return new A.CT(new A.om(s),"Trigam",A.tB(s,B.ap,s,B.b1,B.c_,s),A.tB(B.DD,B.C,s,s,B.k3,s),r,!1,s)}}
+return new A.CT(new A.om(s),"Trigam Stock Management",A.tB(s,B.ap,s,B.b1,B.c_,s),A.tB(B.DD,B.C,s,s,B.k3,s),r,!1,s)}}
 A.e_.prototype={}
 A.QF.prototype={
 H(){return"ProductAction."+this.b}}
