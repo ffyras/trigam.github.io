@@ -93322,7 +93322,7 @@ A.Ez.prototype={
 a8(){return new A.YG()}}
 A.YG.prototype={
 L(a){var s=null,r=this.d?B.Bv:B.a_0
-return new A.C1(new A.nV(s),"Trigam",A.t1(s,B.al,s,B.b4,B.c5,s),A.t1(B.Co,B.y,s,s,B.jy,s),r,!1,s)}}
+return new A.C1(new A.nV(s),"Trigam Stock Management",A.t1(s,B.al,s,B.b4,B.c5,s),A.t1(B.Co,B.y,s,s,B.jy,s),r,!1,s)}}
 A.dU.prototype={}
 A.Ps.prototype={
 I(){return"ProductAction."+this.b}}
@@ -93350,7 +93350,7 @@ s=m.gdV().length!==0?8:10
 break
 case 8:l=B.b.ga9(m.gdV())
 k=A.afc(l)
-j=b
+j=k.e+b
 g=l.gKH()
 f=A.aKL(A.ao(["quantity",j],t.K,t.X))
 f.toString
@@ -93365,7 +93365,7 @@ a=f.d
 if(g==null)g=f.e
 f=f.f
 i=new A.dU(e,d,c,a,g,f)
-q=new A.D8(B.zC,i,j)
+q=new A.D8(B.zC,i,b)
 s=1
 break
 s=9
@@ -94740,7 +94740,7 @@ if(o&&p!==-1)return B.i.bm(q,p)
 else if(o)return-1
 else if(p!==-1)return 1
 else return B.c.bm(s,r)},
-L(a){var s,r,q,p,o=this,n=null,m="Outfit",l=A.K(a),k=l.ax,j=k.a===B.y,i=l.fx,h=A.U("Trigam Central Stock",n,n,n,A.a2(n,n,j?B.e:B.f,n,n,n,n,n,m,n,n,22,n,n,B.x,n,n,!0,n,n,n,n,n,n,n,n),n,n,n)
+L(a){var s,r,q,p,o=this,n=null,m="Outfit",l=A.K(a),k=l.ax,j=k.a===B.y,i=l.fx,h=A.U("Trigam",n,n,n,A.a2(n,n,j?B.e:B.f,n,n,n,n,n,m,n,n,22,n,n,B.x,n,n,!0,n,n,n,n,n,n,n,n),n,n,n)
 h=A.pD(i,0,new A.co(n,n,n,n,n,j?B.e:B.f,n,n,n),h)
 s=A.aF(12)
 r=A.a2(n,n,j?B.e:B.f,n,n,n,n,n,m,n,n,16,n,n,n,n,n,!0,n,n,n,n,n,n,n,n)
